@@ -1,0 +1,6 @@
+theme: white
+theme-override: template/css/PITCHME.css
+slide-number: true
+transition : slide
+
+footnote : "&copy; 2018 n1215"
